@@ -4,7 +4,7 @@ setup (
     name='clean_folder',
     version='0.1',
     description='Script for sorted files',
-    url='https://github.com/anton-serafim/GoIT_PythonCore05/new/main/home_work_7',
+    url='https://github.com/anton-serafim/GoIT_PythonCore05/tree/main/home_work_7',
     author='Anton Padura',
     license= No License,
     packages=find_namespace_packages(),
