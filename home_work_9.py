@@ -1,3 +1,4 @@
+import sys
 def input_error(func):
     def inner(data):
         try:
@@ -45,8 +46,8 @@ def show_all(_):
 
 
 def good_bye_bot(_):
-    print("Good bye!")
-
+        print("Good bye!")
+        sys.exit()
 def unknown_action(_):
     print('There is no such command!')
 
